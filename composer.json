@@ -1,0 +1,13 @@
+{
+	"name": "Technovanza Website",
+	"keywords" : ["Pratik","Amey"],
+	"license":"MIT",
+	"require":{
+		"php":">=7.0.0"
+	},
+	"autoload": {
+		"psr4":{
+			"TechnovanzaWeb\\" : "src/"
+		}
+	}
+}
